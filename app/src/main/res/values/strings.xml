@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ArtistVoting</string>
+    <string name="vote">Vote</string>
+</resources>

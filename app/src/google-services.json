@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259039285695",
+    "project_id": "artistvoting-d13aa",
+    "storage_bucket": "artistvoting-d13aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259039285695:android:6019568a29196a271c110a",
+        "android_client_info": {
+          "package_name": "com.example.artistvoting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259039285695-osc93q52mc4lodvk8ie1jo7ondaio5n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ElD5H1OtiFcph_gw7Kj4uHrCX0QkogA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259039285695-osc93q52mc4lodvk8ie1jo7ondaio5n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
